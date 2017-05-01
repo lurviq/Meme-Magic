@@ -4,10 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/Console.spritefont</File>
-    <File>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/Sprites/bg.png</File>
-    <File>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/Sprites/frame.png</File>
-    <File>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/Sprites/HPIcon.png</File>
-    <File>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/Sprites/AutismIcon.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Console.spritefont</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/bg.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/frame.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/HPIcon.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/AutismIcon.png</File>
   </SourceFiles>
 </SourceFileCollection>

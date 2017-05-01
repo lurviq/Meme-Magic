@@ -18,12 +18,8 @@ namespace Meme_Magic
         static TextConsole txtConsole;
         int currentIndex = 0; //What line we are currently on on the console.
         Entity player;
-
         //Fonts
         public static SpriteFont font;
-
-        
-
         //Sprites
         Texture2D background;
         Texture2D frame;
@@ -141,9 +137,12 @@ namespace Meme_Magic
             spriteBatch.Draw(background, new Rectangle(0, 0, 800, 600), Color.White);
             //Then strings inbetween frame and background
             spriteBatch.DrawString(font, ">" + input, new Vector2(240, 544 + 8), Color.White);
-            if (txtConsole.list.Count > 0)
+            //Draw icons and the rest.
+            spriteBatch.Draw(autismIcon, new Rectangle(34, 512, 32, 32), Color.White);
+            spriteBatch.Draw(heartIcon, new Rectangle(32, 544, 32, 32), Color.White);
+            if (txtConsole.list.Count > 0) 
             {
-                foreach (Text text in txtConsole.list)
+                foreach (Text text in txtConsole.list) //Draw each line of text in the console.
                 {
                     spriteBatch.DrawString(font, text.txt, text.position, Color.White);
                 }
