@@ -29,3 +29,32 @@ c:\users\emil\documents\visual studio 2015\Projects\Meme Magic\Meme Magic\bin\Wi
 c:\users\emil\documents\visual studio 2015\Projects\Meme Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\bg.xnb
 c:\users\emil\documents\visual studio 2015\Projects\Meme Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\frame.xnb
 c:\users\emil\documents\visual studio 2015\Projects\Meme Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\HPIcon.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Content\Terminal.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Content\Console.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\AutismIcon.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\bg.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\frame.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Content\Sprites\HPIcon.xnb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Meme Magic.exe
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\Meme Magic.pdb
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\obj\x86\Debug\Meme Magic.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\obj\x86\Debug\Meme Magic.exe
+C:\Users\Edgar\Documents\GitHub\Meme-Magic\Meme Magic\obj\x86\Debug\Meme Magic.pdb
