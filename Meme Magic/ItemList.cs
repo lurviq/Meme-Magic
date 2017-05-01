@@ -33,7 +33,7 @@ namespace ConsoleApp1
             list.Add(new Item(0, "Brass Knuckles", "Piece of metal worn around your knuckles meant to amplify your blows", 0, false, 0, 0, false, 0, 0, 0, 0, 0, 0, 0, true, 2, 85, 5, 0, 0, false));
             list.Add(new Item(0, "Fists", "Find a weapon", 0, false, 0, 0, false, 0, 0, 0, 0, 0, 0, 0, true, 1, 85, 3, 0, 0, false));
 
-            // Whip tree, moderate damage, low accuracy, high burss
+            // Whip tree, moderate damage, low accuracy, high bursts
             list.Add(new Item(0, "Living Lash", "Scavenged from the body of a tentacle beast, does double damage versus school girls", 0, false, 0, 0, false, 0, 0, 0, 0, 0, 0, 0, true, 7, 50, 4, 0, 4, false));
             list.Add(new Item(0, "Spiked Whip", "Make them bleed", 0, false, 0, 0, false, 0, 0, 0, 0, 0, 0, 0, true, 4, 50, 4, 0, 4, false));
             list.Add(new Item(0, "Steel Whip", "Leaves brutal lacerations and can even break bones", 0, false, 0, 0, false, 0, 0, 0, 0, 0, 0, 0, true, 3, 50, 4, 0, 4, false));

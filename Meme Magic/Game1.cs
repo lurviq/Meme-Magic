@@ -20,6 +20,10 @@ namespace Meme_Magic
         Entity player;
         //Fonts
         public static SpriteFont font;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 537a73c152c057bbabf2701c3bd849859ca8029e
         //Sprites
         Texture2D background;
         Texture2D frame;
@@ -59,6 +63,7 @@ namespace Meme_Magic
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+			
         }
 
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -160,6 +165,7 @@ namespace Meme_Magic
         {
             
         }
+
         public static void NewTextEntry(string text)
         {
             switch (text)
