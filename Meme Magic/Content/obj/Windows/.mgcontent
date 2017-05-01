@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Console.spritefont</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/bg.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/frame.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/HPIcon.png</File>
+    <File>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/AutismIcon.png</File>
+  </SourceFiles>
+</SourceFileCollection>
