@@ -38,6 +38,7 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Area.cs" />
     <Compile Include="Entity.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="Item.cs" />

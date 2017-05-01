@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/Sprites/HPIcon.png</SourceFile>
-  <SourceTime>2017-05-01T12:59:19.4269734+02:00</SourceTime>
-  <DestFile>C:/Users/Edgar/Documents/GitHub/Meme-Magic/Meme Magic/Content/bin/Windows/Sprites/HPIcon.xnb</DestFile>
-  <DestTime>2017-05-01T13:10:00.5886458+02:00</DestTime>
+  <SourceFile>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/HPIcon.png</SourceFile>
+  <SourceTime>2017-04-29T03:53:31.1676629+02:00</SourceTime>
+  <DestFile>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/bin/Windows/Sprites/HPIcon.xnb</DestFile>
+  <DestTime>2017-05-01T14:23:13.7223575+02:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>
