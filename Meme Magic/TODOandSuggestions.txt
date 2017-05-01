@@ -1,0 +1,4 @@
+﻿1. make file reader method for items, similar to the one for entities.
+ 1.1 Move all current items to text files.
+ 1.2 Improve file reader. Entity(fileName) is almost 100 lines, this can be smaller, I'm sure.
+     It can be very short (~10 lines), but then the text file will have to be one value per line (bad readability).
