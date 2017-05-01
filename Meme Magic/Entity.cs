@@ -14,17 +14,13 @@ namespace Meme_Magic
         int currentAutism;
         int maxAutism;
 
-        //Stats TEST TEST AGAIN
-        int strength;
-        int maxStrength;
-        int dexterity;
-        int maxDexterity;
-        int intelligence;
-        int maxIntelligence;
+		//Stats
+		int curSTR,maxSTR;
+		int curDEX,maxDEX;
+		int curINT,maxINT;
 
         //Armor
-        int armor;
-        int maxArmor;
+		int curArmor, maxArmor;
 
         //Item
 
