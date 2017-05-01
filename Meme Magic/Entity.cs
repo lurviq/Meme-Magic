@@ -14,7 +14,7 @@ namespace Meme_Magic
         int currentAutism;
         int maxAutism;
 
-        //Stats
+        //Stats TEST TEST AGAIN
         int strength;
         int maxStrength;
         int dexterity;
