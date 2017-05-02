@@ -1,0 +1,11 @@
+<Name>
+<Bio (ONE LINE)>
+<curHP>/<maxHP>
+<curAutism>/<maxAutism>
+<curSTR>/<maxSTR>,<curDEX>/<maxDEX>,<curINT>/<maxINT>
+<curArmor>/<maxArmor>
+<eyeColor>
+<race>
+<age>
+<height>
+<weight>
