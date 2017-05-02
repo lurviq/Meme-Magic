@@ -17,7 +17,8 @@ namespace Meme_Magic
 		int curHP, maxHP;
 		int curAutism, maxAutism;
 
-		//Stats
+        //Stats
+        int level = 1;
 		int curSTR, maxSTR;
 		int curDEX, maxDEX;
 		int curINT, maxINT;
@@ -43,8 +44,12 @@ namespace Meme_Magic
 			string value = "";
 			int c = 0;
 
-			//Read name
-			for (; data[c] != '\n'; c++)
+            for (; data[c] != '\n'; c++)
+                value += data[c];
+            c++;
+
+            //Read name
+            for (; data[c] != '\n'; c++)
 				name += data[c];
 			c++;
 
@@ -186,6 +191,7 @@ namespace Meme_Magic
 
 		public Entity(
 			string c_name, string c_bio,
+            int c_level,
 			int c_curHP, int c_maxHP, int c_curAutism, int c_maxAutism,
 			int c_curSTR, int c_maxSTR, int c_curDEX, int c_maxDEX, int c_curINT, int c_maxINT,
 			int c_curArmor, int c_maxArmor,
@@ -197,6 +203,7 @@ namespace Meme_Magic
 			//Place the values into the List
 			//NOTE: Make sure these are added in the same order you see in public static class eAtt (Enums.cs)
 			a = new List<int>();
+            a.Add(c_level);
 			a.Add(c_curHP);
 			a.Add(c_maxHP);
 			a.Add(c_curAutism);
@@ -231,5 +238,15 @@ namespace Meme_Magic
 			if (a[eAtt.weight] == -1)
 				a[eAtt.weight] = rand.Next(50, 200);
 		}
+
+        public void SetStats()
+        {
+
+        }
+
+        public void RandomEnemy()
+        {
+
+        }
 	}
 }

@@ -100,6 +100,7 @@ namespace Meme_Magic
             //txtConsole.Add("This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. ");
 			txtConsole.Add(player.getName());
 			txtConsole.Add(player.getBio());
+            txtConsole.Add("Level: " + player.a[eAtt.level]);
 			txtConsole.Add("    HP : "+player.a[eAtt.curHP]+"/"+player.a[eAtt.maxHP]);
 			txtConsole.Add("Autism : " + player.a[eAtt.curAutism] + "/" + player.a[eAtt.maxAutism]);
 			txtConsole.Add("STR: " + player.a[eAtt.curSTR] + "/" + player.a[eAtt.maxSTR]);

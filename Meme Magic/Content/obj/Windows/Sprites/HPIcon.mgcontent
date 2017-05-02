@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/HPIcon.png</SourceFile>
+  <SourceFile>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Meme Magic/Meme Magic/Content/Sprites/HPIcon.png</SourceFile>
   <SourceTime>2017-04-29T03:53:31.1676629+02:00</SourceTime>
-  <DestFile>c:/users/emil/documents/visual studio 2015/Projects/Meme Magic/Meme Magic/Content/bin/Windows/Sprites/HPIcon.xnb</DestFile>
-  <DestTime>2017-05-02T04:42:56.9789841+02:00</DestTime>
+  <DestFile>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Meme Magic/Meme Magic/Content/bin/Windows/Sprites/HPIcon.xnb</DestFile>
+  <DestTime>2017-05-02T09:20:56.8425555+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -27,7 +27,7 @@ namespace Meme_Magic
                 {
                     if (randomEnemies)
                     {
-                        
+                        enemyList.Add(new Entity("1"));
                     }
                 }
             }

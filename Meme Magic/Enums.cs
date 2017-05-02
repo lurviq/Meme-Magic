@@ -8,25 +8,26 @@ namespace Meme_Magic
 {
 	public static class eAtt
 	{
-		public static int curHP = 0;
-		public static int maxHP = 1;
-		public static int curAutism = 2;
-		public static int maxAutism = 3;
-		public static int curSTR = 4;
-		public static int maxSTR = 5;
-		public static int curDEX = 6;
-		public static int maxDEX = 7;
-		public static int curINT = 8;
-		public static int maxINT = 9;
-		public static int curArmor = 10;
-		public static int maxArmor = 11;
-		public static int eyeColor = 12;
-		public static int race = 13;
-		public static int age = 14;
-		public static int height = 15;
-		public static int weight = 16;
+        public static int level = 0;
+		public static int curHP = 1;
+		public static int maxHP = 2;
+		public static int curAutism = 3;
+		public static int maxAutism = 4;
+		public static int curSTR = 5;
+		public static int maxSTR = 6;
+		public static int curDEX = 7;
+		public static int maxDEX = 8;
+		public static int curINT = 9;
+		public static int maxINT = 10;
+		public static int curArmor = 11;
+		public static int maxArmor = 12;
+		public static int eyeColor = 13;
+		public static int race = 14;
+		public static int age = 15;
+		public static int height = 16;
+		public static int weight = 17;
 
-		public static int MAX_ATTRIBUTES = 17;
+		public static int MAX_ATTRIBUTES = 18;
 	}
 
 	public static class eRaces
