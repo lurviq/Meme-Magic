@@ -20,10 +20,6 @@ namespace Meme_Magic
         Entity player;
         //Fonts
         public static SpriteFont font;
-<<<<<<< HEAD
-=======
-
->>>>>>> 537a73c152c057bbabf2701c3bd849859ca8029e
         //Sprites
         Texture2D background;
         Texture2D frame;
