@@ -75,7 +75,6 @@ namespace Meme_Magic
             graphics.ApplyChanges();
             txtConsole = new TextConsole();
             
-            
             base.Initialize();
         }
 
@@ -85,6 +84,10 @@ namespace Meme_Magic
         /// </summary>
         protected override void LoadContent()
         {
+			//Create the player
+			//player=new Entity("","",100,100,100,100,5,5,5,5,5,5,0,0,0,0,0,0,0);
+			player = new Entity("player");
+
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             //Load Fonts
@@ -94,7 +97,20 @@ namespace Meme_Magic
             frame = Content.Load<Texture2D>("Sprites\\frame");
             autismIcon = Content.Load<Texture2D>("Sprites\\autismicon");
             heartIcon = Content.Load<Texture2D>("Sprites\\hpicon");
-            txtConsole.Add("This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. ");
+            //txtConsole.Add("This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. This is a really, really long string. ");
+			txtConsole.Add(player.getName());
+			txtConsole.Add(player.getBio());
+			txtConsole.Add("    HP : "+player.a[eAtt.curHP]+"/"+player.a[eAtt.maxHP]);
+			txtConsole.Add("Autism : " + player.a[eAtt.curAutism] + "/" + player.a[eAtt.maxAutism]);
+			txtConsole.Add("STR: " + player.a[eAtt.curSTR] + "/" + player.a[eAtt.maxSTR]);
+			txtConsole.Add("DEX: " + player.a[eAtt.curDEX] + "/" + player.a[eAtt.maxDEX]);
+			txtConsole.Add("INT: " + player.a[eAtt.curINT] + "/" + player.a[eAtt.maxINT]);
+			txtConsole.Add("Armor: " + player.a[eAtt.curArmor] + "/" + player.a[eAtt.maxArmor]);
+			txtConsole.Add("Eyecolor: " + eColors.getString(player.a[eAtt.eyeColor]));
+			txtConsole.Add("Race: " + eRaces.getString(player.a[eAtt.race]));
+			txtConsole.Add("Age: " + player.a[eAtt.age]+" years");
+			txtConsole.Add("Height: " + player.a[eAtt.height] + "cm");
+			txtConsole.Add("Weight: " + player.a[eAtt.weight] + "kg");
 
             // TODO: use this.Content to load your game content here
         }
